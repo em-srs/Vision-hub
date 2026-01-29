@@ -108,9 +108,3 @@ The application is deployed on Netlify. Ensure to configure environment variable
 
 - [YouTube API](https://developers.google.com/youtube/v3) for providing video data.
 - [RapidAPI](https://rapidapi.com) for seamless API integration.
-
-## Contact
-
-Developed with passion by [Uday Thakur](https://github.com/thaku7469 "Github Link"). Connect with me on [LinkedIn](https://www.linkedin.com/in/uday-thakur-7a835620a) or check out [my portfolio](https://udaythakur.site/).
-
----
